@@ -1,7 +1,6 @@
-default: test lint
+default: lint tests
 
-
-test:
+tests:
 	go test -count=1 ./...
 
 lint:
