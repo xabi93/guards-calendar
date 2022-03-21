@@ -6,6 +6,6 @@ require (
 	github.com/cockroachdb/errors v1.8.3
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/mux v1.8.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	honnef.co/go/tools v0.1.3
 )
